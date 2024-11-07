@@ -1,0 +1,12 @@
+{
+  "name": "com.hbd.toolbox",
+  "version": "1.0.0",
+  "displayName": "HBDUnityToolBox",
+  "description": "Common Unity Utilities",
+  "unity": "6000.0",
+  "dependencies": {},
+  "author": {
+    "name": "Jeongmin94",
+    "url": "https://github.com/Jeongmin94/hbd_unity_toolbox"
+  }
+}
