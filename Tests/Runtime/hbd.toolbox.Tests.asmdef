@@ -1,0 +1,17 @@
+{
+    "name": "ToolBoxTests",
+    "rootNamespace": "ToolBoxTests",
+    "references": [
+        "GUID:348949f15b654704081740e37725a22d",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
